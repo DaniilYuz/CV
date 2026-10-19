@@ -1,6 +1,6 @@
 # Daniil Yuzepenko – CV
 
-[Download PDF](Daniil_Yuzepenko_CV.pdf)
+[Download PDF](CV_DANIIL_YUZEPENKO.pdf)
 
 ![CV Preview](page1.png)
 ![Page2](page2.png)
